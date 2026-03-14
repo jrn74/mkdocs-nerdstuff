@@ -1,6 +1,16 @@
-Komt die
+Installation K3S
 
 ---
-3 dashes
-###
-3 comments
+Tested on:
+- Raspberry Pi4 - debian 13 Trixie
+- Raspberry Pi5 - debian 13 Trixie
+---
+
+Prerequisites
+
+- Update Debian
+- Update Raspberry firmware
+- Disable SWA
+- Enable cgroups
+
+
